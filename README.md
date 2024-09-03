@@ -38,8 +38,7 @@ Você está em uma sala com três interruptores, cada um conectado a uma lâmpad
 ```
 // Para executar desafio 1:
 git clone https://github.com/FabricioLopees/DesafioTarget.git
-java ...
-
+java src/me/fabricio/challenge1/App.java
 ```
 
 2. me.fabricio.desafio2.App
