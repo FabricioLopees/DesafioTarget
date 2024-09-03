@@ -34,14 +34,14 @@ Você está em uma sala com três interruptores, cada um conectado a uma lâmpad
 
 ## Respostas
 
-1. me.fabricio.desafio1.App
+1. me.fabricio.challenge1.App
 ```
 // Para executar desafio 1:
 git clone https://github.com/FabricioLopees/DesafioTarget.git
 java src/me/fabricio/challenge1/App.java
 ```
 
-2. me.fabricio.desafio2.App
+2. me.fabricio.challenge2.App
 ```
 // Para executar desafio 2:
 git clone https://github.com/FabricioLopees/DesafioTarget.git
