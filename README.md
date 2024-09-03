@@ -45,8 +45,7 @@ java src/me/fabricio/challenge1/App.java
 ```
 // Para executar desafio 2:
 git clone https://github.com/FabricioLopees/DesafioTarget.git
-java ...
-
+java src/me/fabricio/challenge2/App.java
 ```
 
 3. Resposta: 77
